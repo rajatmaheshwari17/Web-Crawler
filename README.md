@@ -18,7 +18,7 @@ Welcome to my Web Crawler Project! This is a high-performance, efficient web cra
    ```
 2. **Clone the Repository**: Clone this repository to your local machine using:
    ```bash
-   git clone [Repository-URL]
+   git clone https://github.com/rajatmaheshwari17/Web-Crawler.git
    ```
 3. **Build**: Compile the project using a suitable C compiler, ensuring you link the `libcurl` library.
    ```bash
